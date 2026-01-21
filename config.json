@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-rapidapi",
+      "title": "Build REST APIs with RapidAPI",
+      "description": "Learn to integrate and consume REST APIs using the RapidAPI platform",
+      "path": "assignments/rest-apis-rapidapi",
+      "dueDate": "2026-01-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
